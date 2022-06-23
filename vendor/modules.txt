@@ -1,4 +1,0 @@
-# github.com/jmoiron/sqlx v1.3.5
-## explicit
-# github.com/x-ream/sqlxb v0.4.3
-## explicit
